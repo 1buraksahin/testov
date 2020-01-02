@@ -1,0 +1,1 @@
+testset tesrten okunduğunda da aynı şekilde okunan bir kelime olması amacıyla 1buraksahin tarafından türetilmiştir.
